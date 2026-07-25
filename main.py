@@ -1,5 +1,5 @@
 import streamlit as st
-import math
+from math import ceil
 
 st.write("안녕하세요")
 print("안녕하세요.")
